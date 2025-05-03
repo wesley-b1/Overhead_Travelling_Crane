@@ -59,6 +59,7 @@ Atualmente, muitas empresas ainda utilizam transporte manual ou semi-automatizad
 8. **Deslocamento esquerda:** Move até o fim de curso do destino.  
 
 📌 **Figura 1 - Fluxo Grafset do programa.**  
+![grafset](plataformaguindaste/image/grafset.png)
 **Fonte: Autor.**
 
 ---
@@ -73,6 +74,7 @@ O circuito utiliza:
 - 1 chave liga/desliga  
 
 📌 **Figura 2 - Esquemático feito no Wokwi.**  
+![esquematico_worki](plataformaguindaste/image/esquematico.png)
 **Fonte: Autor.**
 
 ---
