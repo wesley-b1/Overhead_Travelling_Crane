@@ -60,6 +60,7 @@ Atualmente, muitas empresas ainda utilizam transporte manual ou semi-automatizad
 
 📌 **Figura 1 - Fluxo Grafset do programa.**  
 ![grafset](plataforma_guindaste/image/grafset.png)
+
 **Fonte: Autor.**
 
 ---
@@ -75,6 +76,7 @@ O circuito utiliza:
 
 📌 **Figura 2 - Esquemático feito no Wokwi.**  
 ![esquematico_worki](plataforma_guindaste/image/esquematico.png)
+
 **Fonte: Autor.**
 
 ---
@@ -96,4 +98,4 @@ Consulta realizada em **02/05/2025**.
 | 9 | Placa de Circuito Impresso Dupla Face | R$ 6,90 | 1 | [MakerHero](https://www.makerhero.com/produto/placa-de-circuito-impresso-dupla-face/) |
 
 📌 **Custo Total Estimado:** **R$ 136,24**  
-**Fonte: Autor.**
+
